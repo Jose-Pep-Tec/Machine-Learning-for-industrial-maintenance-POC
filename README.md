@@ -19,7 +19,7 @@ This project compares four models (Logistic Regression, Random Forest, XGBoost, 
 
 pip install -r requirements.txt
 
-##usage
+#usage
 
 # Train model
 python src/train_model.py
